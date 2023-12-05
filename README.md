@@ -1,5 +1,3 @@
-I apologize for the confusion. Here's the Markdown code for the complete README file:
-
 ````markdown
 # Old School React Project
 
