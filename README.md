@@ -35,7 +35,6 @@ git clone https://github.com/your-username/old-school-react.git
 cd old-school-react
 npm install
 ```
-````
 
 ### Usage
 
