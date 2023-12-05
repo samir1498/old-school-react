@@ -1,0 +1,19 @@
+{
+  "name": "old-school-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel --plugins @babel/plugin-transform-react-jsx MyApp.jsx -o MyApp.js && babel --plugins @babel/plugin-transform-react-jsx Button.jsx -o Button.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/plugin-transform-react-jsx": "^7.23.4"
+  }
+}
