@@ -1,4 +1,3 @@
-````markdown
 # Old School React Project
 
 This is a simple React project following an old-school approach without using modern build tools like Webpack.
