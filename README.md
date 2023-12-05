@@ -31,7 +31,7 @@ This project demonstrates a basic React setup without modern build tools, using 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/old-school-react.git
+git clone https://github.com/samir1498/old-school-react.git
 cd old-school-react
 npm install
 ```
@@ -56,6 +56,3 @@ npm install
    ```
 
    Or simply double-click the `index.html` file in your file explorer.
-
-
-
